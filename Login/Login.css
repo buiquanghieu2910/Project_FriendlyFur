@@ -48,3 +48,37 @@ body {
     font-weight: normal;
     color: #7b3f1e;
 }
+.menu-sub{
+  top: 0;
+  width: 100%;
+  margin-left: 5px;
+}
+.menu-sub .content{
+    display: flex;
+    padding: 20px 20px;
+    width: 100%;
+}
+
+li{
+    list-style: none;
+    margin-left: 5px;
+    text-decoration: none;
+}
+.thucung header{
+    font-size: 20px;
+    margin-left: 50px;
+}
+.thucung li a{
+    list-style: none;
+    margin-left: 50px;
+    text-decoration: none;
+    color: #000;
+}
+.menu-links li a:hover{
+    list-style: none;
+    margin-left: 50px;
+    text-decoration: underline;
+    color:     #000;
+    
+}
+
