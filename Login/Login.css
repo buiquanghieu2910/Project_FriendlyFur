@@ -66,17 +66,19 @@ li{
 }
 .thucung header{
     font-size: 20px;
-    margin-left: 50px;
+    margin-left: -147px;
 }
 .thucung li a{
     list-style: none;
-    margin-left: 50px;
+    margin-left: -185px;
     text-decoration: none;
     color: #000;
+    font-size: smaller;
+    font-weight: normal;
 }
 .menu-links li a:hover{
     list-style: none;
-    margin-left: 50px;
+ 
     text-decoration: underline;
     color:     #000;
     
