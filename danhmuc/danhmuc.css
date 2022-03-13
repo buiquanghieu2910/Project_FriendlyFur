@@ -1,0 +1,90 @@
+body {
+    font-family: 'Quicksand';
+    font-weight: 500;
+    background-image: url("../images/Layer0.png");
+    background-color: #ffffff;
+}
+
+.logo_main {
+    /* margin: 50px; */
+    width: 40px;
+    height: 40px;
+    /* border: solid 5px blue; */
+    background: white;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+
+.category {
+    font-weight: bold;
+    font-size: 17pt;
+}
+
+.card-header {
+    font-size: 20pt;
+}
+
+.ft-top {
+    background-color: #ffce8a;
+    font-size: 15pt;
+    color: #707070;
+}
+
+.ft-top .bi {
+    color: #000;
+    font-size: 30pt;
+}
+
+.ft-between {
+    background-color: #f6b21c;
+    font-size: 15pt;
+    color: #7b3f1e;
+    font-weight: bold;
+}
+
+.ft-between a {
+    text-decoration: none;
+    font-weight: normal;
+    color: #7b3f1e;
+}
+.tieude{
+    font-size: 15pt;
+    color: black;
+    font-weight: bold;
+}
+.menu-sub{
+    top: 0;
+    width: 100%;
+    margin-left: 5px;
+  }
+  .menu-sub .content{
+      display: flex;
+      padding: 20px 20px;
+      width: 100%;
+  }
+  
+  li{
+      list-style: none;
+      margin-left: 5px;
+      text-decoration: none;
+  }
+  .thucung header{
+      font-size: 20px;
+      margin-left: -147px;
+  }
+  .thucung li a{
+      list-style: none;
+      margin-left: -185px;
+      text-decoration: none;
+      color: #000;
+      font-size: smaller;
+      font-weight: normal;
+  }
+  .menu-links li a:hover{
+      list-style: none;
+   
+      text-decoration: underline;
+      color:     #000;
+      
+  }
