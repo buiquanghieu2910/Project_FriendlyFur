@@ -1,7 +1,7 @@
 body {
     font-family: 'Quicksand';
     font-weight: 500;
-    background-image: url("../images/Layer0.png");
+    background-image: url("../images/banner.png");
     background-color: #ffffff;
 }
 
@@ -48,27 +48,31 @@ body {
     font-weight: normal;
     color: #7b3f1e;
 }
-.menu-sub{
-  top: 0;
-  width: 100%;
-  margin-left: 5px;
+
+.menu-sub {
+    top: 0;
+    width: 100%;
+    margin-left: 5px;
 }
-.menu-sub .content{
+
+.menu-sub .content {
     display: flex;
     padding: 20px 20px;
     width: 100%;
 }
 
-li{
+li {
     list-style: none;
     margin-left: 5px;
     text-decoration: none;
 }
-.thucung header{
+
+.thucung header {
     font-size: 20px;
     margin-left: -147px;
 }
-.thucung li a{
+
+.thucung li a {
     list-style: none;
     margin-left: -185px;
     text-decoration: none;
@@ -76,11 +80,9 @@ li{
     font-size: smaller;
     font-weight: normal;
 }
-.menu-links li a:hover{
-    list-style: none;
- 
-    text-decoration: underline;
-    color:     #000;
-    
-}
 
+.menu-links li a:hover {
+    list-style: none;
+    text-decoration: underline;
+    color: #000;
+}
