@@ -1,8 +1,14 @@
 body {
     font-family: 'Quicksand';
     font-weight: 500;
-    background-image: url("../images/Layer0.png");
+    /* background-image: url("../images/banner1.jpg"); */
     background-color: #ffffff;
+}
+
+.content-top{
+    background-image: url("../images/banner1.jpg");
+    /* height: 100px; */
+    width: 100%;
 }
 
 .logo_main {
